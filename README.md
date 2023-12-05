@@ -7,8 +7,8 @@ This script extracts gym names and ratings from Yelp search results for gyms in 
 
 ## Usage
 1. Clone the repository: `git clone <https://github.com/NadilNinduwara/Web_Scraper>`
-2. Navigate to the project directory: `cd yelp-scraper`
-3. Run the script: `python yelp_scraper.py`
+2. Navigate to the project directory: `cd Web_Scraper`
+3. Run the script: `python main.py`
 
 ## Output
 The script creates a CSV file named `activities.csv` containing gym names and ratings.
